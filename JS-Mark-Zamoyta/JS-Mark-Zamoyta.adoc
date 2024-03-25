@@ -41,6 +41,22 @@ JavaScript is not just for applications which run in browsers on the web. You ca
 
 === JavaScript Beginnings
 
-==== Introduction
+=== Variables and Constants
+
+==== var keyword
+
+=== Types and Operators
+
+==== Operator Precedence
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
+
+> Manipulating String
+
+=== Functions
+
+* Symbol data type in Java Script
+
+
 
 
